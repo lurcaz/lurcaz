@@ -1,4 +1,6 @@
-## Olá, mundo! Eu sou o Lucas de Sá aspirante a programador!
+<h1>Olá, mundo!<br>
+Eu sou o Lucas de Sá 👋</h1>
+
 <div align="center">
   <a href="https://github.com/lurcaz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lurcaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
